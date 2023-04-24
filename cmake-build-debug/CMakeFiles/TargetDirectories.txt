@@ -1,0 +1,3 @@
+A:/@All-Coding-files/@c++/Game-in-c-boxgame/cmake-build-debug/CMakeFiles/Game_in_c_boxgame.dir
+A:/@All-Coding-files/@c++/Game-in-c-boxgame/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/@All-Coding-files/@c++/Game-in-c-boxgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
